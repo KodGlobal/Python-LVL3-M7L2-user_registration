@@ -44,6 +44,6 @@ Login: user5, Password: password5
 Login: NEWuser, Password: slfvjgdafslbhv`
 ```
 
-## Автор
+## Author
 
 Kodland
